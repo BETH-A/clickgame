@@ -26,3 +26,8 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.section{
+  background-image: url(http://ilovetheocean.org/wp-content/uploads/2012/08/ocean01.jpeg);
+
+}
