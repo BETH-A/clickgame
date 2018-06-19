@@ -3,12 +3,12 @@
     min-height: 200px;
     text-align: center;
     /* padding: 10px; */
+    font-family: 'Indie Flower', cursive;
 }
 
 .title {
     text-align: center;
 }
-
 
 h2 {
     text-align: center;

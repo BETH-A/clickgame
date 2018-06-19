@@ -7,7 +7,6 @@ const that = {
     textShadow: "3px 3px 5px #0b395e",
     fontSize: "3.0rem",
     fontWeight: "bold",
-
   }
 };
 const Title = props => (

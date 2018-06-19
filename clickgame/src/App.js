@@ -71,7 +71,6 @@ class App extends Component {
   render() {
     return (
       <div>
-        
         {/* Rendering the component and grabbing the current and top score under this state */}
         <Title
           curScore={this.state.curScore}
