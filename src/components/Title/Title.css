@@ -1,0 +1,18 @@
+.jumbotron {
+    width: 100%;
+    min-height: 200px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+
+.title {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color:#0f5172;
+}
+.scores {
+    float: right;
+}
