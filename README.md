@@ -1,4 +1,4 @@
-# Tropical Memory Game
+# Tropical Memory Click Game
 
 This project was bootstrapped with Create React App and delpoyed on Github Pages, https://beth-a.github.io/clickgame/.
 
