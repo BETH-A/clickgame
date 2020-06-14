@@ -8,7 +8,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1",
-    "set-value": "^2.0.1",
+    "set-value": "^3.0.2",
     "yarn": "^1.22.4"
   },
   "scripts": {
@@ -20,7 +20,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "gh-pages": "^1.2.0"
+    "gh-pages": "^3.0.0"
   },
   "browserslist": {
     "production": [
